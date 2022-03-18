@@ -1,0 +1,5 @@
+Разбить класс WeatherFragment на несколько (добавить обработчие JSON)
+исправить блок try
+
+Класс RemoteFetch имеет null return-сегменты
+исправить блок try

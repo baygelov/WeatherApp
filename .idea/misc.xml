@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bayge/AndroidStudioProjects/WeatherApp/app/src/main/res/font/font.xml" value="0.303125" />
+        <entry key="..\:/Users/bayge/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/bayge/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/frag_weather.xml" value="0.21" />
+        <entry key="..\:/Users/bayge/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_blank.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/bayge/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/fragment_fullscreen.xml" value="0.192481884057971" />
+        <entry key="..\:/Users/bayge/AndroidStudioProjects/WeatherApp/app/src/main/res/menu/menu.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/bayge/AndroidStudioProjects/WeatherApp/app/src/main/res/menu/weather.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/bayge/AndroidStudioProjects/WeatherApp/app/src/main/res/xml/network_security_config.xml" value="0.14270833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
